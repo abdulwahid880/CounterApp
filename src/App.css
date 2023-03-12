@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top : 10%;
 }
 
 .App-logo {
@@ -8,7 +9,14 @@
 }
 
 .App button{
-  background-color: blue;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
